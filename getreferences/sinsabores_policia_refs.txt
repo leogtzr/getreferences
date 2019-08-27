@@ -1,0 +1,5576 @@
+Going to work with: sinsabores_policia.txt
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.7.RELEASE)
+
+2019-08-27 14:46:31.822  INFO 16392 --- [           main] com.references.book.App                  : Starting App v0.0.1-SNAPSHOT on lein with PID 16392 (/home/leo/code/getreferences/getreferences/target/getreferences-0.0.1-SNAPSHOT.jar started by leo in /home/leo/code/getreferences/getreferences)
+2019-08-27 14:46:31.824  INFO 16392 --- [           main] com.references.book.App                  : No active profile set, falling back to default profiles: default
+2019-08-27 14:46:33.087  INFO 16392 --- [           main] com.references.book.App                  : Started App in 1.604 seconds (JVM running for 1.971)
+ROBERTO BOLANO
+BOLANO
+PRÓLOGO DE J A MASOLlVER RÓDENAS
+RÓDENAS
+ANAGRAMA
+Narrativas
+Oí
+Roberto Bolaño
+Chile
+Anagrama
+Llamadas
+Putas
+América
+Estrella
+Amuleto
+Monsieur Pain Nocturno
+Nocturno
+Chile
+Amberes
+Herralde
+Novela
+Premio Rómulo Gallegos:
+A Masoliver Ródenas La Vanguardia;
+Rayuela
+Cortázar Una
+Vila-Matas;
+Gabriel
+Les Inrockuptibles Su
+María Moix El
+País;
+Magistral»
+Echevarría;
+Cervantes
+Sterne
+Melville
+Proust
+Musil
+Pynchon»
+Fresán
+Qué Leer También
+Entre
+La Universidad Desconocida El
+Tercer Reich
+Roberto Bolaño
+Bolaño
+EDITORIAL ANAGRAMA
+ANAGRAMA
+BA}{CELONA
+Diseño
+Julio Vivas
+Estudio A
+Ilustración:
+Siqui Sánchez
+Sánchez
+Primera
+Herederos
+Roberto Bolaño
+EDITORJALANACRAMA
+S A
+Pedró
+Creu
+Barcelona
+ISBN:
+Depósito Legal: B
+Printed
+Spain
+Rcinbook Imprcs
+Múrcia
+Sant Boi
+Llobregat
+PRÓLOGO:
+ENTRE EL ABISMO Y LA DESDICHA
+DESDICHA
+Roberto Bolaño
+Hay
+Sinsabores
+Verdadero Policía
+MI NOVELA El
+Santa Teresa
+USA Ochocientas
+Llamadas
+Amalfitano
+Rosa
+Arcimboldi-
+Pertenecen
+Bolaño
+Esto
+Si
+Bolaño
+Rayuela
+Julio Cortázar Los
+Hasta
+XIX
+Bolaño Nos
+Mientras
+Bolaño
+En Los
+Arcimboldi
+Kooning:
+Arcimboldi
+Bolaño Por
+Amalfitano
+Este
+Por
+Bolaño
+Estamos
+Padilla
+Ambos
+Padilla
+Amalfitano
+Hay
+Padilla Detective
+Esto
+No
+Quijote
+Quijote
+Casi
+Por
+Amalfitano
+Rosa
+Padilla
+Elisa
+Arcimboldi
+Carrera
+Pere
+Girau;
+Pancho
+Monje
+Pedro
+Pablo Negrete
+Gumaro Y
+Chile
+México
+México
+Santa Teresa
+Sonora-
+Barcelona
+Bolaño Hay
+Padilla
+Elisa
+Pero
+Padilla
+Don Quijote
+N
+Cena Informal
+María Expósito
+Larry Rivers Hay
+Gabito
+Rosa
+Jean
+Machelard
+India
+Bolaño
+Amé11
+Pablo Neruda
+Nocturno
+Chile
+Octavio Paz
+Parque Hundido
+Ciudad
+México
+Pero
+Estrella
+Ricardo Piglia E
+Sonora»
+Conde
+Lautréamont
+Rimbaud» Y
+Arcimboldi
+Padilla
+Amalfitano
+Padilla Más
+Bolaño
+Bolaño
+Bolaño Un
+México
+En Los
+Bolaño
+No
+Vitalidad
+JUAN ANTONIO MASOLlVER R(mENAS
+R(mENAS
+Manuel Puig
+Puig
+Philip K Dick
+Dick
+Berlín
+Para Padilla
+Amalfitano
+Dentro
+Walt Whitman
+Pablo N
+William Blake
+Octavio
+Paz
+Borges
+Rubén
+Darío
+Verlaine
+Generoso
+U
+Padilla
+Ética
+Estética
+Cernuda
+Cernuda
+Guillén
+Aleixandre
+Alberti
+Bias
+Otero
+Gil
+Biedma
+Gil
+Biedma
+Gil
+Biedma
+Carlos Edmundo
+Ory
+Gran Maricón Sufriente
+Padilla
+Leopoldo
+María Panero Panero
+Panero
+Gimferrer
+Palabra Los
+Padilla
+En España
+Francia
+Italia
+Leopardi
+Ungaretti
+Montale
+Quasimodo
+Pasolini
+Sanguinetti
+Pavese
+Para
+Francia
+Villon
+Sophie Podolski
+Reino
+Letras
+Tel Que! Y
+Revolución Rusa
+No
+Tampoco
+Blok
+Mandelstam
+Ajmátova? Menos Sólo
+Jlébnikov Y
+Hispanoamérica
+Vallejo
+Martín Adán Punto
+Punto
+Fernández
+Huidobro
+Alfonso Cortés
+León
+Greiff
+Pablo
+Rokha
+Lacan
+Lezama Lima
+Góngora
+Lezama
+Revolución Cubana
+Rogelio Nogueras
+Revolución Sandinista:
+Coronel U
+Ernesto Cardenal Maricas
+Contemporáneos
+México
+Amalfitano
+Gilberto
+Owen
+Paz
+Marsellesa
+Más
+Gelman
+Benedetti
+Nicanor Parra
+Westphalen
+Pellicer
+Enrique Lihn
+Girondo
+España
+Góngora
+Quevedo
+San Juan
+Cruz
+Fray Luis
+León
+Ya
+Dios
+Chulo
+Muerte El
+Por
+Amalfitano
+Padilla
+Padilla-
+Madagascar
+Cuando Padilla
+Primero
+Luego
+Rimbaud
+Leopoldo María Panero
+Aprendió
+San Sebastián
+Mondragón
+Leopoldo María Panero
+Ciudadela
+Posiblemente
+Padilla
+Padilla
+Todo
+Antes
+Padilla
+Padilla
+Días
+Padilla
+Padilla
+Iban
+Padilla
+Además
+Amor
+Luego
+Padilla
+Padilla
+Padilla
+Padilla
+Tailandia
+Padilla
+Eixample Esta
+Padilla
+No
+Golpeó
+Si
+Yeso
+N
+Padilla
+Con
+Satie
+Filología
+Distrito V
+Tampoco
+Padilla
+Cuando
+Padilla
+Luego Padilla
+Barcelona
+Padilla
+Le
+Leopoldo María Panero
+Mondragón
+Tres
+Amalfitano
+A Amalfitano
+Barcelona
+Vladimír Holan
+Amalfitano
+Magnífico
+Amalfitano
+Hasta
+Amalfitano
+Padilla
+Tras
+Pronto
+Por
+Padilla
+Amalfitano Allí
+A Amalfitano
+Contemporáneos
+México
+Contemporáneos
+Amalfitano T
+Letras
+Historia
+Arte También
+También
+Gracia
+Amalfitano
+Padilla
+Diálogos
+Leucó
+Padilla
+Amalfitano Éste
+Amalfitano
+Yo
+Padilla
+Amalfitano
+Padilla
+Leopardi
+Padilla
+Hollywood
+Como
+John Huston
+Toulouse-Lautrec La
+Padilla
+Leopardi
+La Coruña
+Amalfitano
+Antonio Ranieri Padilla
+MollaIdo Leopardi
+Vargas Llosa
+Paolina Leopardi
+Blanca Andreu Carlo Leopardi
+Enrique VilaMatas El
+Adelaida Antici
+Josefina Aldecoa Adelaida García Morales
+Carmen Martín Gaite
+Recanati Giordani
+Muñoz Molina Manzoni: Javier Marías Dos
+Vaticano
+Cela
+Juan Goytisolo
+Goytisolo
+Carlo Antici
+Juan Marsé El
+Stella
+Herralde Fanny Targioni
+Fanny
+Soledad Puértolas
+Puértolas
+Ejemplo: Leopardi
+Martín
+Riquer
+Padilla
+Asia»
+Padilla
+Leopoldo María Panero
+Eduardo Mendicutti
+Silvia» Enrique Vila-Matas:
+Italia»
+Pere Girau
+Padilla Los
+Eixample
+Gracia
+Sitges
+Manresa
+Barcelona
+Girona
+Olot
+Palamós Incluso
+Nápoles
+Hollywood
+Amalfitano
+LA RUINA DE AMALFITANO EN LA UNIVERSIDAD
+UNIVERSIDAD
+DE BARCELONA
+BARCELONA
+Departamento
+Literatura
+Carrera
+Amalfitano
+Antoni Carrera
+Carrera
+Parecía
+Con
+Carrera
+Carrera
+Sant Andreu Los
+Antoni Carrera
+Anna Carrera
+Amalfitano Cuando
+Carrera
+Amalfitano
+Fue
+Amalfitano
+Y Amalfitano
+Anna Carrera
+Así
+Cuando Amalfitano
+Amalfitano
+Carrera
+Humbert Humbert
+Humbert
+Antoni
+Amalfitano
+Soy
+Anna
+Los Amalfitano
+I11I
+I1I
+Amalfitano
+IIl'l]ueñita
+Rodolfo Wilcock
+Nadie
+Rodollo Wilcock
+I
+Rosa
+Barcelo111
+III1IChos
+Aunque
+Ill'nsó Carrera
+Amalfitano
+Alguien
+Hablaron
+Para
+Amalfitano
+NicaIlor Parra
+Octavio Paz A
+Carrera
+Parra
+Octavio Paz
+Amalfitano
+Rosa Amalfitano
+Anna Carrera
+U
+Carrera
+Amalfitano
+Jordi Carrera
+Rosa
+Tal
+Anna
+Amalfitano
+Barcelona Rosa
+J
+Amalfitano
+Carrera
+Carrera
+Sobre
+A Anna
+Antoni Carrera
+A Amalfitano
+Carrera
+Amalfitano
+Barcelona
+I'ldidencias
+IllltO
+Por
+Amalfitano
+II
+Carrera
+IIll'lerse
+Rosa
+Carrera
+IlIl'jor
+Antoni Quién
+Así
+Amalfitano
+Carrera
+Jordi
+IZosa
+Durante
+Amalfitano
+Así
+IILís
+Antoni Carrera
+Carrera
+Anna Carrera
+Carrera
+Antoni Carrera-
+Carrera-
+Amalfitano
+Los Carrera
+Luego Anna
+Cuando
+Amalfitano
+Tras
+Amalfitano
+No
+Amalfitano
+Antoni Carrera
+Debiste
+Amalfitano-
+Dios
+Anna Carrera
+Si
+Departamento
+Letras
+Viuda Canseco
+Canseco
+Idlllirado
+Antoni Carrera
+Carrera
+Anna
+IS
+Ilosotros
+Amalfitano
+An1
+Carrera
+Amalfi1111
+Dios Santo?
+Amalfitano
+Pere Girau
+II;lI1do
+Padilla
+IS
+Padilla
+Padilla
+IS
+Amalfitano
+Qué
+IllC
+Recordó
+ILlhía
+IS
+Padilla
+Padilla
+I
+Dean
+Roxy
+Simplicissimus
+Gardel
+En1
+Fortuitos
+Doña Rosita
+Atalante
+Antoni CaITlTa
+CaITlTa
+Amalfitano
+Padilla
+Los Carrera
+Anna
+Amalfitano
+Reflexionaba En
+Padilla
+Padilla
+Amalfitano
+Por
+Rosa
+Antoni Carrera
+Carrera
+Anna Carrera
+Amalfitano
+Un
+Antoni Carrera
+Durante
+Por
+Amalfitano
+Tus
+Carrera
+Yo
+Amalfitano
+Illolltañas
+I(lek
+Ilcca
+Carmencita Martínez
+Las Ventanas
+IIll'jor
+Santiago
+Óscar
+Illll'Il0
+I LlI1COS
+Huevones Integrales
+Naturaleza
+Partido Comunista
+Asociación
+Estudiantes Progresistas
+El Capital
+Edith Lieberman
+Hemisferio Sur
+Edith Lieberman
+Jorge Teillier
+Enrique Lihn
+Partido
+Revolución Americana
+Universidad
+Chile
+J
+Donne
+Ben Jonson
+Spenser
+Henry Howard
+Edith Lieberman
+Allende
+Conservatorio
+Tejas Verdes
+Buenos Aires
+Aires
+Ilicópatas
+Uni\'lTsidad
+Buenos Aires
+J M G Arcimboldi
+Buenos Aires
+Edith
+Arcimboldi
+Rosa Luxemburgo
+Luxemburgo
+Argentina
+Colombia
+Costa Rica
+I(COS
+Los Invencibles
+La Boca
+Latinoamérica
+IllllTIO
+Illujer
+Ll Revolución Sandinista
+Nicaragua
+Managua
+Managua
+Huidobro
+Neruda
+De Rokha Borges Girondo Martín
+Martín
+Adán
+Macedonio Fernández Vallejo Rosamel
+Valle
+Owen
+Pellicer
+Brasil
+Edith Lieberman
+Edith Lieberman
+Rosinha
+Rosinha
+Osman Lins
+Osman
+Lins
+Río
+Brasil
+I I
+Río
+I I\osinha
+Moreira
+Luiz Lima
+Edith Lieberman
+Corcovado
+II(gaba
+Rosinha
+Illltasma
+Edith Lieberman
+París
+IIIIOS
+Eaux
+I(
+Grecia
+Turquía
+Nilo
+I
+Felisberto Hernández
+Peor
+París
+ILlsta
+Ilalia
+Italia
+Italia
+IlIis
+Rodolfo Wilcock
+Marcel Schwob
+Europa
+Michelin
+Universidad
+Barcelona
+Joan Padilla
+Cono Sur
+Horacio Guerra
+Santa Teresa
+México DF
+Amalfitano
+Dios
+Becado
+Tijuana
+Monterrey
+Ineve
+Octavio Paz
+Efraín Huerta
+Santa Teresa
+Horacio Guerra
+Orestes Gullón
+Templo
+Bosque:
+Gul!ón
+H Guerra Universidad
+Santa Teresa
+Teresa
+Pareció
+Guerra
+Desde
+Garabito
+Sor Juana Inés
+Cruz
+Ramón López Velarde
+Velarde
+Escribió
+Jardín Botánico
+Santa Teresa Escribió
+Callejeras»
+Toda
+Sonora
+Pese
+Ln
+I'(
+Garabito
+México
+Frontera
+Universidad
+Santa TeIC\:\
+Poco
+IIhra
+Estudios Ramonianos
+Ramón López Velarde
+Santa Teresa
+Teresa
+I
+Sor Juana
+Juana
+IlIés
+Cruz
+México
+Universidad
+Teresa
+I
+Para
+Pablo Negrete
+Jl"nos
+Guerra
+LIs
+Desde
+Pablo Negrete
+Vivía
+Amalfitano
+Horacio
+Era
+Probablemente
+Nunca
+Vivía
+Santa Teresa Permanecía
+Desde
+Horacio Tregua
+Tregua
+Después
+Amalfitano
+Santa Teresa Durante
+Amalfitano
+Ilinguna
+Amalfitano
+Sólo
+Universidad
+Santa Teresa
+Amalfitano
+Santa Teresa
+Teresa
+A Rosa
+Rosa
+Italia
+México
+Por
+Amalfitano
+Hacían
+México
+Estados Unidos
+Amalfitano
+Rosa
+Amalfitano
+México
+Amalfitano
+O
+Barcelona Amalfitano
+Pensaba
+Padilla
+Rosa
+Barcelona
+Generalmente
+Jordi Carrera Amalfitano
+Barcelona Luego
+Rosa
+A Amalfitano Jordi
+A Rosa
+I>ldlía
+Cada
+Ivenes
+I
+Rosa
+J
+U
+Otra
+Los Carrera
+Padilla
+Pere Girau
+Girau
+Jordi
+Rosa
+Carrera
+Amalfitano
+Anroni Carrera
+Pere Girau
+Anna Carrera
+Jordi
+Pero
+Rosa
+Jordi
+Pere Girau
+Jordi
+Rosa
+Padilla
+Amalfitano
+Catulo
+Rosa
+Ay
+Catulo
+Anna
+Sí
+Anroni Carrera
+Ya
+Anna
+Jordi
+I
+Todavía
+Pere Girau
+Il"
+Cavall
+Anna
+Padilla Sí
+Cavall
+Barretina Pero
+Toni?
+Antoni Carrera
+Padilla
+Rosa Amalfitano
+Amalfitano
+No
+Jordi
+Rosa
+Ah
+Anna Carrera
+Sí
+Amalfitano
+Jordi Rosa
+No
+Carrera
+Amalfitano Sí
+Jordi
+Amalfitano
+Bueno
+Anna Carrera Sí
+Amalfita110 Qué
+Pere Girau
+México
+Ganas
+Antoni Carrera Padilla
+Anna Carrera
+Amalfitano La
+Anna Carrera
+Ya
+Latinoamérica
+Rosa
+Anna
+No
+Anna
+Jordi No
+Amalfitano
+Latinoamérica Cataluña
+Padilla
+Pere Girau La
+Antoni Carrera
+Ni
+Jordi
+Pere Girau Sube
+Sube
+Antoni Carrera
+Creía
+Padilla
+Designa
+Antoni Carrera Adoro
+Pere Girau
+Girau
+Rosa
+T
+Peniche?
+Anna Carrera
+Carrera
+Sí
+Antoni Carrera El
+Anna En
+Bretaña
+Pere Girau Pero
+Antoni Carrera Claro
+Amalfitano Me
+Antoni Carrera Claro
+Amalfitano Peniche
+Padilla
+Peniche?
+Anna Carrera
+Carrera
+No
+Padilla Es
+Portugal
+Anna Carrera Era
+Antoni Carrera Mi
+Alentejo
+Rosa Amal-
+Amal-
+Ilshoa
+Jordi Un
+Amalfitano Somalia
+Anna
+Ni Marruecos
+Jordi También
+Padilla
+Alemania
+Rosa
+Alemania?
+Jordi Las
+Padilla No
+Rosa
+México
+Pere Girau
+Breton
+Artaud
+AlIIlI1S0 Reyes
+Atahualpa Atahualpa
+Perú
+Rosa Es
+Pere Girau Luego
+Cuida
+Anna Carrera
+Rosa Cuídate
+L'l1
+Padilla
+Amalfitano El
+Amalfitano Qué
+Buena
+Pere Girau Jordi
+Rosa
+Rosa
+Claro
+Jordi
+Jordi
+Rosa
+Anna
+Rosa
+Amalfitano Al
+Pere Girau
+Anna Carrera
+Cuando
+Amalfitano
+Rosa
+Después
+Carrera
+Pere Girau
+Padilla
+Amalfitano
+AFECTÓ A LOS CARRERA LA PARTIDA DE AMALFITANO?
+AMALFITANO?
+Antoni
+Amalfitano
+I
+Lentamente
+Amalfitano
+IIllagen
+Pensaban
+L'S
+Amalli
+Instalados
+Rosa
+AFECTÓ A
+CARRERA LA PARTIDA DE ROSA
+ROSA
+AMALFITANO?
+Mucho
+Hasta
+Jordi
+Polo Norte Él
+Polo Norte Allí
+Rosa
+J
+El Polo Norte
+No
+AFECTÓ A PADILLA LA PARTIDA DE AMALFITANO?
+AMALFITANO?
+Padilla
+Padilla
+Dios
+Creía
+Burroughs
+Pere Girau
+ILlperos
+Padilla
+Él
+Fíjate
+Francia
+Ilaron
+Magreb
+Pere
+Girau
+Padilla
+AFECTÓ
+FINALMENTE
+AL POETA PERE GlRAU LA
+LA
+DE AMALFITANO?
+AMALFITANO?
+Marcel Schwob
+Dino Campana
+Aunque
+Pere
+Girau
+I
+H
+Amalfitano
+Óscar
+Inlllinaba
+Rosa
+O
+Edith Lieberman
+Brasil
+Chile
+Amalfitano
+Rosa
+Argentina
+Si
+Atlántico
+Amalfitano
+Amalfitano
+Israel
+Israel
+Tel Aviv
+Universidad
+Tel Aviv
+Flaco Bolzman
+Israel
+Suecia
+Israel
+Israel Y
+Santa Teresa
+Colón
+Justine
+España
+Buñuel
+Amalfitano
+Padilla
+Nuevo Mundo
+J11
+Santa Teresa
+Teresa
+Rectoría
+I
+Ila
+Padilla
+Barcelona
+Seat
+Decía
+Tamhll:1l
+VL'CCS
+N
+York La
+Padilla
+Por
+Sobre
+Amalfitano
+Santa Teresa
+No
+Castillo
+T
+Aunque
+Padilla
+Fue
+Amalfitano
+Ese
+Por
+Padilla
+Ihrcelona Allí
+Santa
+General Sepúl\(
+Revolución
+Íosa
+Sobre
+Ia
+Padilla
+N
+York
+Gina Randall
+Randall
+Ú
+Babilonia Así
+Padilla
+Elmoso
+Ilolllbre
+Elemental
+Padilla
+Aquí
+Belisario
+Narsés
+Emperador
+Bizancio
+Chile
+Amalfitano
+Lautréamont
+Rimbaud
+Padilla
+Eran
+Amalfitano
+Padilla
+Padilla
+Cuando
+Dicen
+México
+Durante
+Padilla
+I'oco
+Amalfitano
+I
+Pero
+I(
+Illalfitano
+Padilla
+Amalfitano
+IlIanta
+Era
+I
+Y Padilla
+Y Amalfitano
+Padi11
+Le
+Joan
+Joan
+Joan
+I
+Padilla
+IIÍlldo?
+AmalfiIIII(
+Padilla
+I
+Padilla
+Amalfitano
+Padilla
+Esto
+Amalfitano
+Padilla
+Después
+Padilla
+Pere Girau
+Padilla
+Auden Y Amalfitano
+Pere Girau
+Camionero Asesino
+Hermanos Poyatas
+Padilla
+Padilla
+Amalfitano
+Pero
+Padilla
+Pere Girau
+Padilla
+Amalfitano
+Aquello
+Y Padilla
+Un
+No
+Óscar
+Illvinon
+Padilla
+Wlltro
+Cuéntame
+Padilla Lo
+Amalfitano
+Illí'
+I
+I
+También
+Amalfitano
+Padilla Días
+México
+Padilla Temblando
+Amalfitano
+Padilla
+Será
+Amalfitano
+Padilla
+Después
+U
+Padilla
+Sentía
+Padilla
+Padilla
+Padilla
+Padilla
+Padilla
+Amalfitano
+LIs
+I'ltldb
+It'lOI]
+Pa1
+Amalfitano-
+Ilhle
+Del
+Rosa
+Atlántico
+Les
+Sonreía
+Amalfitano
+Rosa
+Rosa
+Amalfitano
+No
+Amalfitano
+Padre
+Mango
+Sí
+Rosa
+Amalfitano
+I
+Rosa
+Rosa Mango
+Amalfitano
+Poco
+Amalfitano
+Castillo
+Fue
+Santa Teresa
+Amalfitano
+Pensó
+Era Castillo
+Amalfitano
+Christopher Walken
+Amalfitano
+Castillo
+Amalfitano
+Aquel
+Soñaba
+Me
+Creo
+Amalfitano
+Castillo-
+Amalfitano
+Santa Teresa
+Castillo-
+Illiblico?
+Amalfitano-
+Castillo-
+J(
+Castillo
+Amalfitano
+Amalfitano
+Qué
+Castillo Luego
+Castillo
+Amalfitano
+Amalfitano
+Santa Teresa
+Facultad
+Filosofía
+Letras
+Rectoría
+Castillo
+Amalfitano
+Recorrieron
+Santa Teresa
+Castillo
+Chevrolet
+Pararon
+DalIas
+Castillo
+Sin
+Amalfitano
+Solamente U
+Vez
+Dominio T
+Estrella
+Norte
+Toltecad Castillo
+El Toltecad
+Toltecad
+Mayahuel Sobre
+Beneméri111
+Américas
+Benito Juárez
+T
+Castillo
+Aparicio
+Oca
+Durante
+Cuando Castillo
+Aparicio Montes
+Montes
+Oca
+Amalfitano
+Toltecatl
+Amalfitano
+Castillo-
+Luego Castillo
+IH
+Vivía
+Cierra
+Amalfitano
+Anda
+Castillo Amalfitano
+Amalfitano
+Amalfitano
+Larry Rivers
+Amalfitano Cuando
+Castillo
+Castillo
+Cerca
+Amalfitano
+Amalfitano
+Castillo
+Pero
+Prefiero
+Castillo
+Creo
+Amalfitano
+He
+Bellas Artes
+I
+Rivers
+Larry Ri\
+Padilla
+IIHcr
+Larry Rivers
+Castillo-
+Nueva
+Amalfitano
+Conozco
+Larry Rivers
+I LlI1k O'Hara
+Larry Rivers
+Rivers
+IlOS
+Castillo
+Castillo
+Me
+Amalfitano- Perdóname Estamos
+Estamos
+Tal
+Perdóname
+Castillo
+Si
+Me
+O
+Amalfitano
+El- No
+Castillo
+Te
+Amalfitano
+Hablaron
+Larry Rivers
+Frank Q'Hara Después Castillo
+Castillo
+Esa
+Amalfitano
+Horacio Guerra Éste
+Éste
+Sin
+Guerra
+Guerra
+Es(aba
+Santa Teresa El
+Horalio Guerra
+Amalfitano
+Lncontró
+Guerra
+Guerra
+Hablaron
+Amalfitano
+En Ciencias
+Monterrey
+México DF
+En Filosofía
+Letras
+Guerra
+Me
+Amalfitano
+Luego
+Horacio Guerra
+Absolutamente
+Aunque
+Amalfitano
+Anunciar
+Guerra
+Sí
+Amalfitano
+Sí
+Guerra-
+Amalfitano-
+Amalfitano-
+Incluso
+Tal
+Amalfitano
+Siguieron
+Guerra
+Amalfitano
+Salvador Novo
+Rodolfo Usigli Los
+Durante
+Guerra
+Del
+Amalfitano
+Guerra
+Jardín Botánico Aún
+Amalfitano Más
+Guerra
+Parece
+Larry Rivers
+Castillo
+Nuevo México Arizona
+Arizona
+Texas
+Amalfitano
+XVIII
+Texas
+Amalfitano
+Larry Rivers
+Berdie
+Primo Levi
+IIIografías
+Un Larry Rivers
+Rivers
+Castillo
+Frank O'Hara
+Illlevo
+Larry Rivers
+Larry Rivers
+Joder
+Amalfitano
+Lis
+Pero
+Castillo
+Larry Rivers
+Texas
+También
+T
+Castro
+Larry Rivcrs
+Mediante
+Porque
+Después
+Castillo
+Castillo
+Castillo
+Amalfitano
+Ill1a
+Barcelona La
+División Azul
+Segunda Guerra Mundial
+I
+Nóvgorod El
+Dionisio Ridruejo
+Tomás Salvador
+Rusia
+Allí
+Pero
+Illanera
+Navidad
+Regimiento
+Por
+No
+Durante
+Hospital
+Riga
+Reich
+José
+Antonio Cuando
+SS
+Allí
+SS
+Sin
+Entonces
+Soy
+SS
+SS
+No
+SS
+I"s
+También
+IllSOS
+Éstos
+Antes
+SS
+Con
+Siberia
+En Siberia
+Barcelona A
+Otras
+Apenas
+Amalfitano
+Barcelona
+Alguna
+Castillo
+Amalfitano
+Juan
+I'once Esquivel
+Bellas Artes
+Iohres
+Santa Teresa
+Aquiles Serdán
+El Milagro
+Ponce
+Ill'lmeros
+Creo
+IllToes
+Ponce
+CaIrll1za
+Morirá
+I;lmbién Villa:
+Morirá
+Idaceado
+Obregón
+Elías Calles
+Huerta
+Hiroshima
+Pascual Orozco
+Madero
+Allende
+I'odo
+Illalas
+Zapata
+Amado Nervo
+Efraín Huerta Morirá
+Volverán
+Ya
+Pero
+Aquiles Serdán Puta
+Viva México
+Castillo
+Amalfitano
+Juan
+Ponce Esquivel
+Entre
+Facultad
+Medicina
+Iwlado
+Jardín Botánico
+Santa Teresa
+Hora(
+Guerra
+Allí
+Pequeñas
+Guerra
+Amalfitano
+México
+Amalfitano
+Guerra
+Así
+Amalfitano
+Amalfitano
+Guerra
+Universidad
+Charleston
+Guerra
+Acto
+Amalfitano
+Guerra
+Guerra
+Amalfitano
+Guerra
+Cereus
+Sonora
+Amalfitano
+Agave
+III(ductores
+Pero
+Amalfitano
+Guerra-
+Illla
+Pasó
+Guerra
+Agave
+Agave
+Por
+Guerra
+Amalfita110
+Ah
+Jardín Botánico
+Amalfitano
+Qué
+Por
+Guerra-
+Lignum
+I
+Algo
+Amalfitano?
+Desde
+Amalfitano
+Guerra Las
+Guerra
+Guerra
+Jardín Botánico
+Botánico
+Amalfitano
+Guerra
+Sorprendido
+Amalfitano
+Ese
+Guerra
+Amalfitano
+Sígame
+Guerra
+Salieron
+Estaba
+Ése
+Guerra
+Amalfitano
+Aquél
+Amalfitano
+Guerra
+Amalfitano La
+Gue-
+Jardín
+Guayules
+Illl'IlOS
+Amalfitano
+Guerra
+América Los
+Guerra
+Padilla
+Raoul Delorme
+Delorme
+Mientras
+Francia
+Delorme
+Mayo
+Padilla
+Padilla
+Amalfitano
+Gaceta Literaria
+Evreux
+O
+Magazine Literario
+Metz
+Revista
+Vigilantes Noctur-
+Noctur-
+Arras
+Revista Literaria
+Comercial
+Fruteros
+Poitou Una
+Iluda
+Xavier Rouberg
+I1
+Gaceta Literaria
+Magazine Literario La Re//lId
+Vigilantes Nocturnos
+Sabrina Martin
+Mar Inte/101
+Exterior»
+Rouberg
+Revista Literaria
+Comercial
+Sabrina Martin
+Martin
+II\c
+Kraunitz
+M Poul Antoine Dubacq
+Antoine
+I
+Dubacq
+Poetas Bárbaros:
+Como
+III(
+Delorme
+Von Kraunitz
+Estrasburgo
+Sabrina
+Martin
+París
+M Poul
+Antoine Madrid
+AntoiIle Dubacq
+Sobre Xavier Rouberg
+Juan
+I
+Padilla
+Indochina
+Ill1a
+Dalí
+I11
+Dalí
+Rouberg
+Todo
+Xavier Rouberg
+Padilla
+Ni
+Amalfitano
+Por
+Padilla
+Padilla
+Luego
+Literaria
+Comercial
+Gremio
+Fruteros
+Poitou!
+Más
+Padilla
+Delorme
+Padilla
+Esa
+Castillo
+Santa Teresa
+Castillo
+Amalfitano
+Pero
+Barcelona
+Volvió
+Rosa
+Le
+Padilla Querido Joan
+Joan
+Joan
+Joan
+Etcétera Terminaba
+Tienes
+IIIís
+No
+Padilla
+Como
+Padilla
+Amalfitano
+Parecía
+Amalfitano
+Gaceta Literaria
+Magazine
+Literario
+Revista
+Vigilantes Nocturnos
+Revista Literaria
+Comercial
+Gremio
+Fruteros También:
+Claudel
+Maurice Chevalier
+Más
+Revista Literaria
+Comercial
+Magazine
+Gaceta
+Revista
+Vigilantes Nocturnos
+I¡JLIS
+Delorme
+I H
+I I(s
+Amalfitano
+Il1alfitano
+Delorme
+Antaine Madrid
+Martin
+I
+Antaine Madrid
+Dubacq
+I
+Il1uchos
+Van Kraunitz
+Poul
+I
+L' Y
+I
+Breton
+Padilla Sin
+Rouberg
+Amalfitano
+Pero
+Amalfitano
+Rouberg
+Revista Literaria Comercial
+No
+Rouberg
+Poitou Las
+Raguenau
+Sin
+Padilla
+Raguenau
+Padilla
+Adria
+Padilla
+Raguenau
+París Padilla
+Raguenau
+No
+Raguenau
+Padilla
+Raguenau
+Ahora
+Padilla
+Amalfitano
+Delorme
+Arcimboldi
+Albert
+I
+Arcimboldi
+Arcimboldi
+Delor1\1l'
+Más
+Delorme
+M
+Derville
+Arcimboldi
+El Bibliotecario Se'/111 Derville Arcimboldi
+Delorme
+Ilortería
+Yeso
+Padilla
+Arcimboldi
+No
+I
+Esa
+Amalfitano
+General Sepúlveda
+Santa Teresa
+Amalfitano
+Llamar
+Retórica
+Dialéctica
+Campos
+Con112
+Guerrero
+General Mina
+China
+Qué
+Ilombradía
+Como
+Tao Te King:
+Yen
+Padilla?
+Mina El
+Padilla?
+Coral Vida!
+Lomunicativo
+Alexander Bajo
+Santa Teresa Ciudad
+México
+California
+Texas
+M
+DF
+Excélsior
+Amalfitano
+Era
+LInos
+Universidad
+Wisconsin
+Venga
+Amalfitano Algunas
+Finalmente
+Desde
+Amalfitano
+Mina
+Amalfitano
+Éste
+Luego
+Sacó
+Amalfitano
+Ahora
+Amalfitano
+Mientras
+Hombre
+Para
+Amalfitano
+Antes
+No
+Llorona La
+Ll
+Amalfitano
+Procedían
+Amalfitano
+Mina
+U
+Amalfitano
+Castillo
+Encontró
+Castillo
+Amalfitano
+Aquí
+Castillo En
+Amalfitano
+Esto
+Castillo
+IlTta
+No
+No
+Amalfitano
+Qué
+Ilusión
+Amalfitano
+Castillo
+Ilusión
+Vaya
+Castillo
+Illstantes
+Amalfitano
+Castillo
+Cristopher Walken AmalfiLlIlO
+Cristopher Walken
+Debajo
+Gran Camisa HawaiaIla
+No
+Amalfitano
+I
+I
+Amalfitano El
+Desde
+Castillo
+Aquí
+Amalfitano
+Sherlock Holmes?
+Castillo
+Ah
+Castillo
+Cuando
+Éstas
+Mina
+Teatro Carlota
+Amalfitano
+Castillo
+Te
+Amalfitano
+Castillo Ven
+Amalfitano
+Castillo
+Teatro Carlota
+Si
+III
+Santa
+Teresa
+Mina Los
+Allí
+Entonces
+Abajo
+Aunque
+Coral Vidal Lo
+Esa
+Coral Vidal
+Alexander El
+Amalfitano
+Teatro Carlota
+Teatro Carlota Pero
+Consistía
+Luego
+Esto
+Illlllcas
+Yeso
+Alexander
+AmalfItano
+Castillo
+Pero
+Alexander
+X
+Amalfitano
+Buenos
+Alexander Buenos
+Por
+Amalfitano
+Alexander
+Amalfitano
+Sí
+Amalfitano
+Tal
+Amalfitano
+Alexander
+Parecía
+Amalfitano
+Incluso
+Éste
+Amalfitano
+Hasta
+Amalfitano
+Alexander
+IIllllediato
+Otra
+Cuando
+Amalfitano
+Está
+Amalfitano
+I IY
+Rosa
+Illago
+Amalfitano
+Amalfitano El
+Perfecto
+Era
+Luego
+Tenga
+A Amalfitano
+Castillo
+Illcjilla El
+Amalfitano
+Edith Lieberman
+Padilla
+Ingres-Fabriano
+Allí
+Che Guevara
+Isaac Bábel
+Borís Pilniak?
+Amalfitano
+Edith Lieberman
+Padilla
+Ratita Astuta
+Premios Lenin
+Premios Stalin
+Coreanas Recogiendo Firmas
+Paz
+Amalfitano
+Lt
+Partido Comunista Chileno
+Yo
+Isaac Bábel No
+Reinaldo Arenas No
+Revolución Cultural
+Cultural
+Banda
+Cuatro
+Fui
+Rosa Luxemburgo
+Luxemburgo
+Kropotkin
+Wilde
+Coreanas Recogiendo FirlilaS
+Paz
+Amalfitano
+Ilisas Coreanas
+Ucranianas Reogiendo Trigo
+Paz
+Húngaras Recogiendo Tran\cltntes
+Paz
+Cubanas Recogiendo Pechinas
+Latinoamericano
+Remisión
+M
+Guerras
+Independencia?
+Neruda
+Partido
+Misterio
+Amalfitano
+Neruda
+Octavio Paz
+Tarde
+Paz
+Olimpo
+Neruda Pero
+Lejos
+Octavio Paz
+Neruda Por
+Amalfitano
+Gran Intemperie Y
+Amalfise
+Partido Comunista
+Chile
+OJO
+SIn
+Testimonio Perdido
+Perdido
+Tribu
+Amalfitano
+Cuando
+Menos
+Amalfitano
+Menos
+Poetas
+Novelas
+Poetas
+Amalfitano
+Novelas
+Quijote Menos
+Menos
+I
+Sobre
+Amalfitano A
+Otras
+Amalfitano
+Durante
+Amalfitano
+Individuo»
+Nicanor Parra
+Poemas
+Editorial Nascimento Chile
+Nueva York»
+Ernesto Cardenal
+Cardenal
+DF
+Antología
+Ernesto Cardenal
+Editorial Laia
+Laia
+Barcelona
+Por
+Cardenal
+O»
+Indios Americanos»
+Merton»
+Nueva York»
+Ambos
+Ernesto Cardenal
+Nicanor Parra
+Horacio Tregua
+NOTAS DE UNA CLASE DE LITERATURA CONTEMPORÁNEA:
+CONTEMPORÁNEA:
+I':L PAPEL DEL POETA
+POETA
+GarcÍa Lorca
+Lorca
+Celan
+Trakl
+Hart Crane
+Crane
+Crevel
+Félix
+Azúa
+Neruda
+Lezama Lima
+Roberto Fernández
+Espíritu: T S Eliot
+Eliot
+Wallace Stevens
+Stevens
+Infierno: Cernuda
+Gilberto Owen
+Owen
+Auden
+Salvador Díaz Mirón
+Gabriela Mistral
+Mistral
+Frank O'Hara
+O'Hara
+Francis Ponge
+Ponge
+Amado
+Nervo
+Allen Ginsberg Octavio Paz
+Adrian Henti Seamus Heaney Gregory Corso
+Corso
+Michel Bulteau
+Campos
+Alejandra Pizarnik Leopoldo María Panero
+Jaime Sabines Roberto Fernández Retamar Mario Benedetti
+Benedetti
+Ernesto Cardenal
+Cardenal
+Con
+Elizabeth Bishop Berrigan Ted Hughes José Emilio Pacheco
+Pacheco
+Coronel U
+Amalfitano
+Pablo
+Rokha
+Borges
+Nicanor Parra Otros: Richard
+Richard
+Brautigan
+Gary Snyder
+Snyder
+Martín Adán
+Adán
+Charles Olson
+Olson
+Ezra Pound
+Pound
+Borges
+Vallejo
+Pavese
+Ernesto Cardenal
+William Carlos Williams
+Williams
+Violeta Parra Alfonsina Storni
+Amalfitano
+Dario
+Bellezza
+Emily Dickinson
+Cavafis
+Amalfitano
+Tablada
+I
+Hollywood: Antonin
+Antonin
+Nueva York: Kenneth
+Kenneth
+Medellín: Álvaro Mu11\
+Mu11\
+Hong-Kong: Robert
+Robert
+Iowell
+Pe
+Gimferrer
+Miami: Vicente Huidobro
+Huidobro
+México DF: Renato
+Renato
+Ieduc
+EL
+Daniel Biga
+Oquendo
+Amat
+Salvador Novo
+Novo
+Roque Dalton También:
+También:
+Di Prima Pasolini Enrique Lihn
+Lihn
+Cintio Vitier Oliverio
+Oliverio
+Nicolas Born Jacques Prévert
+Mark Strand
+Strand
+Maiakovski
+Orlando Guillén
+Guillén
+Macedonio Fernández
+Fernández
+Ramón López Velarde
+Velarde
+EfraÍn Huerta Otras
+Maples Arce Enrique
+Enrique
+Martínez
+Alfonso Reyes Carlos Pellicer
+Villaurrutia
+Octavio Paz
+Rincones
+CUESTIONARIO
+Pregunta:
+Amado Nervo?
+Nervo?
+Respuesta: Porque
+Seguro
+Vería
+LECTURAS
+Poemas
+Amado Nervo
+Elevación; Perlas
+Serenidad; La
+Laurence Sterne Viaje
+Austral
+Espasa Calpe Matsuo Basho Senda
+Padilla
+Amalfitano
+Ía Según Padilla
+IIl~lS
+Frase
+I
+Cuando
+Porque
+Padilla
+España
+I
+Celtas
+Bisontes
+Ducados
+Rex
+Autoridades
+Sanitarias:
+Aunque
+Ducados
+Camel
+No
+Piedad
+Aunque
+Amalfitano
+México
+México
+Revolución
+Ése
+Padilla
+Amalfitano
+Padilla
+Amalfitano
+Thomas Mann
+IlIariposeo
+Pero
+Thomas Mann
+II IS
+Rimbaud
+Rimbaud
+Comuna
+Amalfitano
+Illla
+Ya
+IZimbaud
+Amalfitano
+Rosa
+Edith Lieberman:
+Lieberman:
+Mon
+Mon
+Ils
+Mon
+Sous
+Qui
+Mon
+Mon
+Leurs
+Au
+Ithyphalliques
+Prenez
+Ithyphalliques
+Leurs
+Quand
+Comment
+Ce
+Quand
+J'aurai
+Moi
+Quand
+Comment
+Todo
+Amalfitano
+Quimera
+IIIlTIC
+Rimbaud
+Amalfitano
+Iltlquier
+Amalfitano
+Rimbaud
+Ejército
+Bazaine
+Maximiliano
+Napoleón
+Libbrecht
+Eydoux
+El Tajo
+Santa Teresa El
+Laurent
+Rouffanche
+González
+Villaviciosa
+Santa Teresa Todos
+Rouffanche
+Villaviciosa
+Inocencia
+Loco Los
+IlIeron
+Laurent
+I'J
+González
+Todos
+Sólo
+El Tajo Fue
+México
+Francia
+I':jército
+Bazaine
+México
+Emperador
+Amalfitano
+Antioquía
+Tiro
+Tarso
+Éfeso
+Edad Media
+Como
+Alfonso Reyes
+Amalfitano
+Apolonio
+Tiro»
+Retratos
+Un
+Mediterráneo
+Miguel Ángel
+Príncipe Valiente
+Valiente
+Valiente
+Aleta
+Epiro
+Mitilene
+Reyes
+If
+Ulises
+Tehas
+T
+Jl'Zaran
+Amalfitano
+Cristo
+Sólo
+Rosa
+Cuando Amalfitano
+Lugones
+Lugones
+Lugones! Y
+Lugones:
+Todos
+Un
+Por
+Amalfitano
+Por
+Ante
+Ambos
+Agua
+Amo
+Amo
+Amo Ahí
+Lugones
+I
+Illono
+Kafka
+Qué
+Amalfitano
+Kafka
+II1;ís
+Lugones
+Kafka
+Lugones
+Kafka
+Kafka
+Amalfilana
+México
+Todo
+Luego
+Amalfitano? Aprendieron
+Memorizaron
+Comprendieron
+Marcabrú Que
+Amalfitano
+Amalfitano
+Pero
+Italia
+Cena
+N
+Derecha
+Bolonia
+Amalfitano
+Más
+Con
+Renacimiento
+Orsini
+Orsini
+Mujica Láinez
+Segunda Guerra Mundial
+Italia Un
+Teoría
+Acto
+Brigada Carlomagno
+División Viking
+División Blindada
+Panzer
+Ejército
+Tanques Despojos
+Campaña
+Grecia
+Badoglio
+Campaña
+Libia
+Graziani
+Littorio
+Acto
+África
+Arguyó
+Gariboldi
+Garibaldi
+Amalfitano
+Advirtió
+África
+Il·naz
+Sicilia
+Llegado
+Pero Amalfitano
+San Marco
+Monte Rosa
+Italia
+Granaderos
+Ccrdeña
+Cremona
+Centauro
+Pasubio
+Piacenza
+Mantua
+Sassari
+Rovigo
+Lupi
+Toscana
+Nembo El Ejército
+Chicago
+City
+Amalfitano
+Ese
+Napoleón
+Europa
+Sentado
+Amalfitano
+Arcimboldi
+París
+Como
+Francia
+Arcimboldi Y
+Aquellos
+Edith Lieberman
+Siempre
+Durante
+Buenos Aires
+Arcim-
+IH>ldi
+Il'galo Un
+Ahora
+Arcimboldi
+I
+Rosa Amalfitano
+Amalfitano
+Durante
+Sinaloa
+Santa Teresa
+Cada
+Amalfitano
+Rosa
+Santa Teresa A
+Rosa
+El Rey
+La Reina
+Por
+Cogían
+Rosa
+Mientras
+Amalfitano
+Rosa
+Hasta
+Mancera
+Rosa
+Amalfitano A
+Rosa
+Barcelona
+Rosa
+Cuando
+Amalfitano
+Le
+Nunca
+Cuando
+Rosa
+Santa Teresa
+Acostumbrada
+Barcelona
+Casco Antiguo
+Antiguo
+Santa Teresa
+Santa
+Como
+Rosa Amalfitano
+Jordi Carrera
+Amalfitano
+México El
+Jordi Al
+Compró
+Tamburini
+Liberatore
+Rosa
+Decía
+También
+Santa Teresa
+Celestino Arraya
+Celestino
+Rosa
+Santa Teresa
+Parece
+Jordi
+Tardó
+Nazario Ante
+Parece
+Rosa
+Jordi
+Espero
+Sobre
+Rosa
+Escribió
+Santa Teresa
+Jordi
+Era
+Posiblemente
+Cándido
+Pangloss
+Pangloss
+Jordi
+No
+Cándido
+Pangloss
+Paraíso
+Purgatorio
+Por
+Cándido
+Pangloss
+Voltaire
+Antoni Carrera
+Carrera
+Jordi
+Voltaire
+Antoni
+Carrera-
+Jordi
+Pangloss
+Igual
+Cándido
+Cándido
+Pangloss
+México?
+Creo
+Pangloss
+I
+Jordi
+Esa
+Diccionario
+Real AcadeIltÚl
+No
+Mar Cuerdas
+También
+Jordi
+Negrísimo
+Tampoco
+Diccionario
+Julio Casares
+Pompeu
+Fabra
+Mucho
+Cándido
+Leyó:
+Pangloss
+Nótese
+Durante
+No
+Estoy
+Después
+Rosa
+Por
+Jordi Carrera
+Palau Sant Jordi
+Barcelona
+Enfrente
+Real Madrid
+Real Madrid
+Sabonis
+Sabonis
+Barcelona El Palau
+Jordi
+Sin
+Madrid
+No
+Cuando
+Ya
+Palau
+No
+J
+Dijo
+Jordi
+Sintiendo
+Incomprensiblemente
+Amalfitano
+Rosa?
+Pero
+No
+Después
+Barcelona
+Ejército
+Jordi
+Ejército
+Rey
+Ejército
+Patria
+Pero
+Centro
+Jardi
+Rosa
+Rosa
+Rosa
+Celestino Arraya
+Rosa Amalfitano
+Santa Teresa
+Villaviciosa
+Los Primos
+Primos
+Hermanos
+Hitler
+Sobre
+Dorado
+Federico Montero
+Revolución La
+Piedras Negras
+Ojinaga
+Nogales
+Matamoros
+Nueva Rosita
+Diestrísimo
+Monterrey
+Ciudad
+México
+Era
+Junto
+Federico Montero
+Los Charros
+Muerte
+Los Primos
+Primos
+Hermanos
+Montero
+Pablo Mesones Sarabia
+Garabito
+Victoria
+Pueblo
+Santa Teresa
+Franceses
+Plaza
+Norte
+General Sepúlveda
+Revolución
+Pedro Xavier
+Xavier
+Terrades
+Jacinto Prado Salamanca
+Garabito
+Historia El
+Santa Teresa
+Detrás
+Pero
+Finalmente
+Silbador El
+Para
+T
+Prado Salamanca
+Ahora
+Nunca
+Santa Teresa
+José Mariño
+Amador Pérez Pesqueira
+Benito Juárez
+Maximiliano:
+Europa
+Julio V Anaya
+Legión Belga
+Maurice Libbrecht
+Santa Teresa
+Villaviciosa
+Tras
+Villaviciosa
+Alertados
+Santa Teresa
+Pérez Pesqueira
+José Mariño
+Libbrecht
+Santa Teresa
+Unos
+Emperador»
+Libbrecht
+Mercado Central
+Plaza Mayor Los
+Ayuntamiento
+Catedral
+Libbrecht
+Por
+José
+Mariño
+Libbrecht
+Entre
+Robert Lecomte
+Brujas
+Marcial Hernández
+Monitor
+Brujas
+Lecomte
+Libbrecht
+J V Anaya
+Piedras Negras
+Arístides Mancera;
+No
+José Mariño
+Mariño
+Mariano Escobedo
+Batalla
+Querétaro
+Emperador;
+Memorias
+Nueva York
+Mariño
+Mariño
+Martí
+Salvador Díaz Mirón
+Batalla
+Santa
+Teresa
+No
+Mariño
+Santa Teresa
+Teresa
+Un
+Emilio Hernández
+Marcial Hernández?
+Hernández?
+Primero
+Santa Teresa
+Después
+Advertido Emilio Hernández
+Villaviciosa
+Villaviciosa Llega
+Otros
+Preguntados
+Emilio Hernández A
+Aunque
+Emilio Hernández
+José Mariño
+Poe Pero Emilio Hernández
+Conforme
+Emilio
+Hernández
+Santa Teresa
+Villaviciosa
+Concluye Marifío:
+Mariño
+Describe
+Emilio Hernández
+Hernández
+Villaviciosa
+Éstos
+Hernández
+Mariño
+Hernández
+Hernández
+Está
+No
+Hernández
+Entonces Mariño
+Hernández
+Eso
+Villaviciosa
+Recordaba
+Cuando
+No
+Luego
+Gilberte DalIas Roger Milliot Ilarie Voronca Gérald N
+Cuando
+Río
+Fournaise
+Neveu En París
+Italia?
+Poetes
+Pierre Seghers
+Seghers
+U
+También
+Éluard
+Bernard Nüel
+Saint-John Perse
+Patrice
+Tour
+Pin
+Brasil
+Argentina
+México
+Edith Lieberman
+Colegio Francés
+Brahms
+Audrey
+Hepburn Tal
+Río
+Francia
+Y Rosa
+Chile
+Santiago
+Pero
+Probablemente
+Chile
+Ella
+U
+Naciones Unidas
+Unidas
+Gilberte Dallas
+Gerald N
+Ilarie Voronca
+Voronca
+Gilberte Dallas
+Gilberte
+Greta Garbo
+Muy
+Cuando
+Anne Clancier
+Gilberte H Dallas
+Decía Anne Clancier:
+Clancier:
+Elle
+Elle
+Lorsqu
+Ce
+Gilberte Dalias Perpétuellement
+Poetas
+Primero Sophie Podolski
+Le
+Tristán Cabral
+Michel Bulteau
+Matthieu Messagier A
+Gilberte Dallas El
+Gilberte
+Río
+Paseo Marítimo
+Gilberte
+Rosa Amalfitano
+Santa Teresa
+Bioy Casares
+Después
+Antes
+Amalfitano
+Rosa
+Amalfitano
+México
+Amalfitano
+Bloque
+Este
+U
+Amalfitano
+Pero Rosa
+Amalfitano
+Rosa
+Amalfitano
+Castillo
+Barcelona
+Rosa
+Sobre
+Acongojado
+Amalfitano
+Rosa
+Durante
+Dejó
+Todo
+Después
+Soñó
+Edith
+Lieberman
+Santa
+Teresa
+Ford Falcon
+Rosa
+Edith Lieberman
+Santa Teresa
+Rosa
+Celestino Arraya
+Arraya
+Me
+Rosa
+Por
+Amalfitano
+Río
+Janeiro
+Antes
+Amalfitano
+Brasil
+Edith Lieberman? Padre
+Rosa
+Brasil
+Ambos
+Usualmente
+Rosa
+Vivo
+Dije
+Danubio
+Luego
+Parecía
+Cuando
+Des
+Les
+Millions
+Girent
+Dévorent
+S
+Eventrent
+Bon Dieu
+Dieu
+Eventrent
+Eventrent
+Versos
+Gilberte Dallas!
+Poco
+Rosa
+Pese
+Makarenko
+A S Neill Freinet Gramsci Fromm Ferrer
+Guardia
+Paulo Freire Peter Taylor
+Taylor
+Pestalozzi
+Piaget
+Suchodolski
+Johan Friedrich Herbart
+Herbart
+U
+Managua
+Hildegart Rodríguez
+Aurora
+Pedagogía Libre
+Libre
+El Gran Regreso
+Larga Marcha
+Otro
+Actas
+Sur
+E
+Agnes Riviere
+Riviere
+Escuela Activa
+Montreal
+Paulo Freire
+Arte Antes
+Rosa
+Merce Cunningham
+Martha Graham
+Rimbaud
+Lautréamont
+Klee Es
+Pequeños
+Revolución
+M G Arcimboldi
+Arcimboldi
+OBRAS DEJ M G ARCIMBOLDI
+Novela
+Tour
+Francia
+Galli-
+Vertumno
+Gallimard
+Hartmann
+Gallimard
+Sam
+Gallimard
+Riquer
+Gallimard
+Gallimard
+El Bibliotecario
+Gallimard
+Gallimard
+Fontainebleau
+Gallimard
+Racine
+Gallimard
+Doctor Dotremont
+Gallimard
+Ensayo
+Artículos
+Gallimard
+Teatro
+Sólo
+Gallimard
+Pequeño Teatro
+Acción Revolucionaria Carcasonne
+Gallimard
+Compañía Colombiana
+Alzados
+Esforzados
+Cali
+Poesía
+Pierre-Jean Oswald
+Doctor Dotremont
+Le Pont
+Traducciones
+Canciones
+Hartmann
+Aue
+Millas Martin
+Martin
+Van Aue
+Aue
+DOS NOVELAS DE ARCIMBOLDI LEÍDAS EN
+EN
+DÍAS
+Hartmann
+Hartmann
+Aue
+Jaufré Rudel
+Rudel
+Rudel
+Trípoli
+Antioquía Sobre
+Pero
+Blaya
+Tierra Santa Durante
+Trípoli La
+Sorpresivamente Jaufré Rudel
+Dios
+Fue
+Temple Poco
+Poco
+V
+Aue
+Por
+Blaya
+Él
+Rudcl
+Pero
+Rudel
+Van Aue
+Aue
+Intenta
+Van Aue
+Heinrich
+Morungen
+Van Aue
+IV Cruzada Durante
+Turingia
+Fatalmente Van Aue
+Van Morungen
+Jaufré Rudel Van Morungen
+Jaufré Rudel
+Van Aue
+Vagamente
+Van Aue
+Morungen
+India La
+Jaufré Rudel
+Cruz
+Mundo
+Con
+Van Aue
+Erec
+Ivain
+Chrétien
+Troyes
+Blaya
+Vertumno
+Argentina
+México
+Estados Unidos La
+París
+Carcasonne La
+Alexandre Maurin
+Francia André
+André
+Alexandre Maurin
+André
+Maurin
+André
+Maurin
+Maurin
+Finalmente
+André Maurin
+André
+Piensa
+Tiene
+Después André
+Francia En París
+Luego
+América
+Durante
+Un
+Europa Esa
+América Su
+Un
+Antes
+Allí
+Alexandre Maurin
+Maurin
+André
+América
+Poseedor
+Vivía
+Sobre
+Estas
+André Aquella
+Durante
+André
+VIajero
+Finalmente
+Carcasonne
+F
+París
+Carcasonne
+Carcasonne
+André
+Maurin
+André
+Deja
+Cuando
+Carcasonne
+Según
+André
+Medicina
+Durante
+Cuando
+André
+André
+Con
+España
+Africa
+André
+Carcasonne
+Maurin
+André
+París Pasan
+André
+Tiene
+Sorbo
+Compra
+Bolsa Tiene
+Tiene
+Carcasonne Tiene
+Viaja
+Mediterráneo
+Cercano Oriente U
+Casino
+Montecarlo
+Por
+Está
+André Maurin
+América
+André
+Ya
+Pero
+André
+Esa
+París
+André Maurin
+París
+UNA NOVELA DE ARCIMBOLDI LEÍDA EN
+EN
+DÍAS
+Fontainebleau
+Un
+Fontaine
+Francia
+Fontaine
+Sólo
+D'Arsonval
+D'Arsonval
+Fontaine
+Aquí
+Fontaine:
+GIStaño
+Durante
+París
+Fontaine
+D'Arsonval
+Fontaine
+Fernand
+Khnopff Fue
+Fontaine
+Conocía
+Khnopff
+Mellery
+Xavier Mellery
+D'Arsonval
+Rosacruces
+Casi
+D'Arsonval
+Rosellón
+Fontaine
+Ocultos»
+D'Arsonval
+Poco
+Fontaine
+D'Arsonval
+D'Arsonval
+Fontaine
+Clouzet
+Eustache Pérol
+Pérol
+París
+D' Arsonval
+Clouzet
+Chaumont
+Todos
+Chaumont
+D'Arsonval
+Clouzet Eustache Pérol
+Recuerdan
+Miguel Ángel D'Arsonval
+Clouzet
+Capilla Sixtina Chaumont
+Aristóteles
+San Francisco
+Asís Clouzet
+Moisés
+Miguel Ángel
+Eustache Pérol
+Rodin
+Calais
+D'Arsonval
+Clouzet
+Nápoles Clouzet
+Bergson
+París
+Clouzet
+D'Arsonval
+Pape Satcm
+Satcm
+Pronto
+Pérol Chaumont
+Eustache
+Pérol
+Clouzet
+D'Arsonval
+Abren
+Fontaine A
+Chaumont
+Recuerda
+Rememora
+Habla
+París
+Habla
+Un
+Habla
+Habla
+Rosacruces
+Un
+Ya
+Sí
+África
+India Países
+D'Arsonval
+Clouzet
+Eustache Pérol En
+Madagascar Son
+Nadie
+Fontaine
+N
+Comienza
+Ahora
+Santa
+Empieza
+Madagascar
+Como Fontainebleau
+T
+Un
+Son
+Fontainebleau En
+Fontaine
+Ahora
+Fontaine
+Tras
+Chaumont
+D'Arsonval
+Clouzet
+Fontaine
+Pérol
+D'Arsonval
+Clouzet
+Fontaine
+Allí
+Fontaine
+Chaumont
+Por
+Fontaine:
+Desde
+D'Arsonval
+Clouzet
+Chaumont Poco
+D'Arsonval
+DOS NOVELAS DE ARCJMBOLDI LEÍDAS EN
+EN
+DÍAS
+El Bibliotecario
+Jean Marchand Es
+Tiene
+El Bibliotecario
+Gallimard
+Marchand
+Primero
+Luego
+India
+Lee
+Algunas
+Hay
+Marchand
+Entre
+El Bibliotecario
+Marchand
+Marchand
+También
+Ha
+Marchand
+Marchand
+Con
+Otro
+Otro
+Marchand
+Otro
+Otro
+Marchand
+Marchand
+El Bibliotecario
+Pero
+Marchand
+Llega
+Marchand
+Marchand
+Arcimboldi
+Mesías
+Bibliotecario;
+Marchand
+Un
+Arcimboldi
+Racine
+U
+Escenas
+Racine
+Jeanne-Thérese Olivier
+Jeanne Sconin
+Sconin
+Marquise Du Parc
+Andrómaca;
+Boileau
+Boileau
+Moliere
+Jean Racine
+Uzes
+Languedoc
+Antaine Sconin;
+Catherine
+Romanet;
+Marquise Du Parc
+Andrómaca
+Marquise Du Parc;
+Marquise Du Parc
+Moliere;
+Champmeslé;
+Versalles;
+XVII;
+Lully
+Port-Royal
+DOS NOVELAS DE ARCIMBOLDI LEÍDAS EN
+EN
+DÍAS
+Sam O'Rourke
+Miss Blandish
+James Hadley
+Hadley
+Chase La
+James Hadley
+Hadley
+Chase
+Oim
+Kansas Jim Esa
+Chuck
+Jim
+Arcimboldi:
+Así
+Victor Hugo Los
+Chuck
+Romeo
+Julieta
+Mona
+Romeo
+Julieta
+Entre
+Arcimboldi
+Oklahoma»
+Entre
+O'Rourke
+Sobre
+Arcimboldi
+Hardee-Royston
+O'Rourke
+O'Rourke
+O'Rourke
+Arcimboldi
+Sobre
+O'Rourke
+O'Rourke
+Durante
+O'Rourke
+Íntegramente
+Dios
+Biblia
+Cristo
+Coca-Cola
+B
+Mona
+Terminan
+B
+Chuck
+Oklahoma
+O'Rourke
+No
+Sueña
+Mona
+Mona
+Kansas Jim
+Chuck
+Allí
+Encuentran
+Arrodillado
+O'Rourke
+O'Rourke
+Novela
+Todos
+Pero
+Cronológicamente
+Siguiendo
+Marsella;
+Sin
+Aunque
+Cada
+Asimismo
+Jura
+También
+Narbonne
+Toulon
+Brest
+Ginebra
+RoussiHon
+Lille
+París
+España
+Magreb?-
+Pero
+AMISTADES DE ARCIMBOLDI
+ARCIMBOLDI
+Raymond Queneau
+Cinco
+Georges Perec
+Cristo
+Raoul Duguay
+Duguay
+Francia
+Arcimboldi
+Canadá
+Duguay:
+Vancouver Cosa
+América
+Arcimboldi
+Réflexions
+M André Breton
+Para Arcimboldi Isou
+Isou
+Elíe-Charles Flamand
+Ya
+Flamand
+Con Arcimboldi
+Flamand
+Arcimboldi
+Arcimboldi
+Agatha Christie
+Christie
+Ivonne Mercier
+Caen
+Conoció
+Mercier
+NormandÍa Durante
+Mercier
+Ivonne Mercier
+París
+Arcimboldi
+Caen
+Hartmann
+Aue
+Ivonne Mercier
+París Aún
+René Monardes
+Carcasonne
+Monardes
+Arcimboldi
+Jamás
+Incluso
+Arcimboldi
+Francia Monardes
+U
+Viene
+Sigue
+Callado
+RELACIONES EPISTOLARES DE ARCIMBOLDI
+ARCIMBOLDI
+Robert Goffin
+Temas:
+Achille Chavée
+Temas
+Chavée
+Cecilia Laurent
+Centro
+Investigación
+Energía Atómica
+París Cuarenta
+Arcimboldi
+Penetrarla=matarla Esa
+Dr Lester D Gore
+Instituto
+Energía Nuclear
+Nuclear
+Pasadena
+Estados Unidos Diez
+Arcimboldi
+Gore
+Estados Unidos
+Dr Mario Bianchi
+Departamento
+Cirugía
+Plástica
+Hospital San Pablo
+Orlando
+Estados Unidos Ocho
+Arcimboldi
+Bianchi
+Estados U
+París
+Jaime Valle
+Universidad Nacional Autónoma
+México Cinco
+Temas
+Oaxaca
+María Sabina Sobre
+Arcimboldi
+Mariano Azuela
+Anne
+Fontfreda
+París
+Sor Juana Inés
+Cruz No
+México
+B Traven
+Jaime Valle
+Renato Leduc
+Roberto Dole
+Diez
+Temas:
+México
+Leduc
+Llega
+Incluso
+Fábulas
+Arcimboldi
+Dr John W Clark
+Ginebra
+Suiza
+Veinte
+Temas:
+La Isla
+Isla
+Dr Moreau
+Dr André Lejeune
+Dieciocho
+Temas
+Lejeune
+Arcimboldi
+Amelía De León
+Oaxaca
+Diez
+Mauritania
+Senegal
+Arcimboldi
+De León
+Stendhal
+Balzac
+AFICIONES Y APRENDIZAJES
+APRENDIZAJES
+Arcimboldi
+Jacques Soler
+Marie Djiladi Jamás
+Sin
+Entonces
+Desde
+Nunca
+Escuela
+Pensamiento
+Escuela
+Palabras Ocultas
+Para
+Pero
+Arturo De Sisti
+No
+También
+No
+Arcimboldi Nunca
+ENEMIGOS JURADOS DE ARCIMBOLDI
+ARCIMBOLDI
+Lisa Julien
+Arcimboldi
+Julien
+Entre
+Bajo
+J
+Arthur Laville
+Gallimard
+Europa
+Estados U
+El Bibliotecario Laville
+Arcimboldi
+Presumiblemente
+Laville
+Charles Dubillard
+Arcimboldi
+Dubillard En
+París
+Dubillard
+Languedoc
+Arcimboldi
+Arcimboldi
+A Dubillard
+Arcimboldi
+Dubillard
+Arcimboldi
+Dubillard
+I
+J
+Arcimboldi
+Dubillard
+Arcimboldi Éste
+Dubillard
+Nunca
+Raouf Deforme
+Arcimboldi
+Escritor
+Durante
+Arcimboldi
+Según
+Delorme
+Pronto
+Delorme
+Arcimboldi
+Cide
+Maupassant
+Pierre Lo
+Mendes
+Banville
+Barbusse
+Hugo
+Chateaubriand
+Marina Libakova
+U
+Según
+Libakova
+Thézy-Climont
+Arcimboldi
+También
+Arcimboldi
+N
+V Asesinos
+Sonora
+Pancho Monje
+Villaviciosa
+Santa
+Teresa
+Sonora
+U
+Monte Hebrón
+Hebrón
+Pedro Negrete
+Santa Teresa Antes
+Junto
+Pedro
+Villaviciosa
+Pancho
+Pedro
+Monte Hebrón
+Monte Hebrón
+Detrás
+Pero
+Los Suicidas
+Villaviciosa El
+Gumaro
+Pedro
+Durante
+Pedro
+Después
+Pancho
+Pancho
+Monje
+Pancho
+Pedro
+Pedro
+Pancho
+Monje
+Pedro
+Monje Expósito
+Pancho
+Don Pedro
+Pancho
+Hacía
+Ford
+Pedro
+Pancho
+Valle Hebrón
+Pedro
+Pancho
+Pedro
+Ford
+VillaVICIosa
+Gumaro
+Pedro-
+Gumaro
+Esa
+Pancho
+Gabriel Sa-
+Sa-
+Santa Teresa
+Don Pedro
+Pat Cochrane
+Smith
+Wesson
+Esa
+Pancho
+Villaviciosa
+Más
+Eran
+Tijuana
+Alejandro Alejandro Pinto
+Alejandro López
+López
+Gabriel Salazar Eran
+Para
+Gabriel
+Pancho
+Tijuana A Pancho
+No
+Santa Teresa
+Nissan
+Tijuana Las
+Las Valencias
+Pat Cochrane
+Por
+Escuchaban
+Cochrane
+Gabriel
+Aunque Pancho
+Tijuana
+U
+Pedro Negrete
+Cochrane
+Cochrane
+No
+Todos
+Gabriel Salazar
+Cochrane
+Pancho Monje
+Alejandro Pinto
+Dios
+Alejandro Pinto
+Pinto
+Pancho
+Ésas
+Alejandro Pinto
+Pinto
+Villaviciosa Al
+María Expósito La
+María Expósito
+San Dimas
+Qué
+Dimas
+Gestas
+La Colina
+Muertos
+María Expósito
+María Expósito Expósito
+Villaviciosa Desde
+María Expósito
+Nunca
+Villaviciosa
+Nueve
+María Expósito
+Pero
+María Expósito
+Villaviciosa
+María Expósito
+Expósito
+Ese
+Villaviciosa
+Sabino
+Duque
+Villaviciosa
+Revolución
+Varios
+María Expósito
+Para
+Villaviciosa
+Sangre
+Cristo
+Infierno
+Así
+María Expósito
+Villaviciosa
+María Expósito Expósito
+María Expósito
+Expósito: María
+Rafael
+México Sus
+Villaviciosa:
+Nunca
+Pudo
+María Expósito
+Rafael
+Villaviciosa
+Pedro Botero
+Botero
+Celestino Arraya
+Los Charros
+Muerte
+Villaviciosa
+Valle Hebrón
+U
+María Expósito A
+María Expósito
+U
+Rafael Expósito
+Santa Teresa
+Teresa
+Nunca
+Teatro Carlota
+Celestino Arraya
+Descubrió
+Allí
+Para Rafael Expósito
+Teatro Carlota
+Pajarito
+Cruz
+José Ramírez
+Profesor Chen Kao
+Michoacán
+Rafael Expósito
+Los Primos Hermanos
+Celestino Arraya Segundos
+No
+Fue
+Santa Teresa
+Teresa
+María Expósito Era
+Desde
+Villaviciosa
+Fue
+María Expósito
+Expósito
+Por
+ViIlaviciosa
+Marías Expósito
+Por
+Rafael
+París
+María Expósito
+Monterrey
+Villaviciosa
+Santa Teresa
+María Expósito
+Expósito
+Cuando
+María Expósito
+México
+Para
+París
+Rafael
+María Expósito
+Francisco
+San Francisco
+Asís
+Expósito
+Monterrey
+Monje
+Francisco Monje Expósito
+Monje
+Expósito
+Pancho
+Villaviciosa
+Pancho
+Rafael Expósito Y
+Pedro Negrete
+Expósito
+Todo
+No
+Primero
+Magnum
+Gabriel
+Uzi
+Cochrane
+Todo
+Pero
+Vi
+Gente
+Hubiera
+Desear
+Gente
+Pero
+Cuánta
+Pensaba
+Quédate
+Gabriel
+Le
+Como
+Sí
+Santa Teresa
+Tal
+Gabriel
+Pero
+Tijuana
+U
+Caminaban
+Supongo
+Decidieron
+No
+Tampoco
+Pero
+Magnum
+Me
+Magnum:
+Villaviciosa Parecía
+Parecía
+Entonces
+Esperé
+Uzi
+Luego
+Tijuana
+Creo
+General Sepúlveda La
+Gabriel
+Antes
+Después
+General Sepúlveda
+Sepúlveda
+Pérez Delfina Juan Pérez Delfina
+Virgilio Montes
+Arizona
+Adiós
+Lupe
+Hermosillo
+Robert Alvarado
+Nunca
+Ya
+Pero
+Gabriel Salazar
+Pedro Negrete
+Don Pedro
+Yo
+Ay
+Ramírez
+Pedro
+Ramírez
+Pedro
+Pedro
+Dios
+Pedro
+Pedro
+Ramírez
+Pedro
+Ramírez
+Ramírez
+Ramírez
+Ramírez
+Tú
+Eran
+Gumaro
+Pedro Negrete
+Dios
+Ramírez
+Ramírez
+Ramírez
+Intentó
+Gabriel Salazar
+Don Gabriel
+Pedro Negrete
+Pat Cochrane
+Te
+Gabriel
+Ahora
+Así
+Gabriel Salazar Don Gabriel
+Pedro
+Con
+El Milagro
+Santa Teresa
+Teresa
+Está
+No
+Cuando
+Ford
+Mustang
+Era
+Favor
+Pancho
+Pedro
+Pablo Negrete
+Santa Teresa
+Para
+Hasta
+Después
+Así
+Pedro
+Pedro
+Pablo
+Hasta
+Después Pablo
+Pedro
+Pablo
+Pedro
+Santa T
+Fue
+Pedro
+Juárez
+Mina
+Segunda Guerra Mundial
+Pablo
+Derecho
+Veracruz
+Escobedo
+Juárez
+Santa Teresa
+Santa Teresa
+Teresa
+Un
+Poco
+Pablo Negrete
+Derecho
+Filosofía
+República Pedro
+Sin
+Santa Teresa Sus
+Ya
+Santa Teresa
+Pero
+Pablo
+Filosofía
+Heidegger
+Orestes
+Gullón
+Gullón
+El Nacional
+DF Y
+Pablo Negrete
+Gullón Con
+La Habana
+Bucareli
+La Encrucijada
+Bucareli
+Victoria
+Guerrero
+Gullón
+Pablo
+Negrete
+Gullón
+Lichtenberg
+Apreciaba
+Montaigne
+Pascal Y
+Empédocles
+Anaxágoras
+Heráclito
+Parménides
+Zenón
+Elea
+Pablo
+Pedro Negrete
+Un
+Todo
+Poco
+Pablo
+Santa Teresa
+No
+Pedro Negrete
+Santa Teresa En
+Pablo Negrete
+Poco
+Amalfitano
+Pablo
+Pedro
+Historia
+México
+Guillermo Molina
+Óscar Amalfitano
+Europa Y
+No
+Amalfitano
+Apocalipsis
+Santa Teresa Iba
+Luego
+Esa
+Pedro
+General Sepúlveda
+No
+Por
+Le
+Desde
+Oyó
+No
+Pedro Negrete
+Pedro
+Amalfitano
+T
+Chile
+Cáucaso
+Estudió
+Aprendió
+Carmencita Martínez
+Las Ventanas Se
+Durante
+Naturaleza
+Partido Comunista
+Asociación
+Estudiantes Progresistas
+El Capital Se
+Edith Lieberman
+Edith Lieberman
+Tomó
+Jorge Teillier
+Enrique Lihn Fue
+Partido Comunista
+Comunista
+Revolución Americana Fue
+Universidad
+Chile
+Gramsci
+Walter Benjamin
+Marcuse Firmó
+Predijo
+Allende
+Después
+Estuvo
+Edith Lieberman
+Buenos Aires Al
+Tradujo
+J
+Donne
+Spenser
+Jonson
+Henry Howard Consiguió
+Argentina
+Estuvo
+Río
+J
+México DF Allí
+Rosa
+J M G Arcimboldi
+Buenos
+Aires
+Edith
+Rosa
+Rosa Luxemburgo Después
+Canadá
+Nicaragua
+En Managua
+Hegel
+Feuerbach
+Marx
+Engels
+Lenin
+Platón
+Aristóteles
+Boecio
+Abelardo
+Todo
+Después
+Mario Bunge
+Poco
+Edith Lieberman
+Brasil
+Con
+Edith Lieberman
+Militó
+Río
+Janeiro Tradujo
+Osman Lins
+Osman Lins
+Lins
+Impartió
+Marburgo
+Natorp
+Cohen
+Cassirer
+Lieber
+William Hamilton
+Hamilton
+Estuvo
+Rosinha
+Rosinha
+Después
+Brasil
+Rosinha
+Luiz Lima
+París
+Marcel Proust Pero
+Por
+Macedonio Fernández
+Felisberto
+Hernández
+Egipto
+Nilo
+Grecia
+Turquía Escribió
+Rodolfo Wilcock
+Latinoamérica Participó
+Holanda
+Finalmente
+Universidad
+Barcelona
+Pero
+Por
+Isabel Aguilar Ésta
+DF
+Ahora Isabel Aguilar
+Departamento
+Filosofía
+Universidad
+Santa Teresa
+Decía
+Horacio Guerra
+Amalfitano
+Aguilar
+Las Camelias
+General Sepúlveda
+Pedro
+Negrete
+Gumaro
+Pedro Negrete
+Gumaro
+Gumaro
+Pedro
+Eran
+Don Pedro
+Pedro
+Gumaro
+Pedro
+Cuando
+Pedro
+Pedro
+Pedro
+Clarita
+Pedro Negrete
+Pedro-
+Pedro
+Pedro
+Gumaro
+Gumaro
+Pedro
+Pedro
+Negrete- En
+Emilio López Por
+Nunca
+Gumaro
+Don Pedro Negrete
+Ustedes
+Sepúlveda
+Gumaro?
+Gumaro
+Vivía
+Vivía
+General Sepúlveda
+Colima Era
+Yo
+Entonces
+Entonces
+Sepúlveda
+Iba
+Miraba
+Parecía
+Igual
+Cuando
+Él
+Por
+Si
+Había
+Hasta
+Más
+Claro
+Yo
+Recuerdo
+Pedro
+Sepúlveda
+Pedro Negrete
+No
+Esas
+Negrete
+Así
+Anda
+Entonces
+Me
+Estaba
+Sepúlveda
+Mientras
+Eso
+Pero
+Junto
+Me
+Vi
+Yo
+Está
+Creo
+Ni
+Luego
+Tenía
+Cepeda
+Este
+Ya
+Habrá
+Yo
+Entonces
+Este
+Revolución
+Eso
+Entonces
+Qué
+Luego
+Pero
+Nicanor
+Nicanor
+Entonces
+Villaviciosa
+México
+Después
+Nicanor
+Estuvimos
+Ya
+Pedro
+Sepúlveda
+Pedro Negrete
+Negrete
+Pedro-
+Dos
+Pancho
+Pedro
+Pancho Monje
+Pedro
+Los Álamos
+Pancho
+Quiero
+Pancho
+Don Pedro
+Óscar Amalfitano
+Gumaro- Es
+Da
+Pedro-o El
+Pancho
+Homero Sepúlveda
+Matadero Municipal
+Santa Teresa
+Revolución Su
+Hermosillo
+Santa Teresa Fue
+Homero No
+Revolución
+Lucas
+Pancho Villa En
+Pero
+Lucas
+Homero
+Sepúlveda
+No
+Pancho Villa
+Combatió
+Porfirio Díaz
+Huerta
+Pascual Orozco
+Santa Teresa
+Carranza
+Epaminondas
+Sonora
+Escipión
+Chihuahua
+Empecinado
+Norte
+Milans
+Bosch
+Frontera
+Sepúlveda
+Fue
+Ángeles
+Lucio Blanco
+No
+Obregón Durante
+Santa Teresa
+Luego
+Fue
+Plutarco Elías
+Elías
+Calles En
+Medró
+Santa Teresa
+Como
+Roma
+Napoleón
+Pequeño
+Thiers
+Sepúlveda
+Sobrevivió
+Tuvo
+Texas
+Sepúlveda
+Austin El
+Santa Teresa
+No
+México
+República Tres
+General Sepúlveda Después
+Hermosillo
+Hospital Estatal
+Santa T
+U
+Francisco Clayton
+Santa Teresa
+Pancho Monje
+Amalfitano
+Amalfitano
+Pancho
+Cuando Rosa
+Rosa
+Escandón
+Por
+Pancho
+Sonora
+Escandón
+Rosa
+Allí
+Pancho
+Cuando
+Esa
+México
+Álvarez
+Chucho
+Peguero
+Sánchez
+Álvarez
+Pensó
+Amalfitano
+Dejó
+Ford
+Durante
+Amalfitano Iba
+Antes
+Pancho
+Amalfitano
+Cuando
+Pancho
+Buscó
+Nestlé
+Volvió
+Amalfitano
+Pancho
+Ford
+Luego
+Amalfitano
+Cuando
+Amalfitano
+Amalfitano
+Pancho
+Departamento
+Filosofía
+Estela
+Tenía
+Creía
+Filosofía
+Pancho
+Cuando
+Amalfitano Rosa
+Pancho
+Luego
+Cuando
+Puso
+Pasó
+Nuevo León
+El Jacinto
+Amalfitano
+Pancho
+Amalfitano
+Rosa
+Escandón Esta
+Cuando Rosa
+Pancho
+N
+Detrás
+Durante
+Pancho
+No
+Barcelona Se
+N
+Después
+Rosa Le
+Buscó
+Bajo
+Pluto Las
+Olían
+Cuando
+Después
+Aquella
+Isabel Aguilar
+Amalfitano
+Aunque
+Vivía
+No
+Isabel Aguilar
+Filosofía
+Hermosillo
+Santa Teresa
+Amalfitano
+UNAM
+Isabel Aguilar
+Sil
+México DF
+II
+St'~
+Edith Lieberman
+Amalfitano
+Cuando Amalfitano
+Canadá
+Cada
+Isabel
+Edith
+Amalfitano
+Cuando Edith Lieberman
+Isabel
+Por
+DF
+Brasil
+Rosa
+Amalfitano Pero
+Río
+Isabel
+Amalfitano
+Cuando
+Después
+Isabel
+Por
+Hermosillo
+Allí
+Horacio Guerra
+Departamento
+Filosofía
+Universidad
+Santa Teresa Cuando
+Horacio Guerra
+Santa Teresa
+Isabel Aguilar
+Hermosillo
+Santa Teresa
+Esa
+Cuando
+Por
+Isabel Aguilar
+Horacio Guerra
+Pero Horacio Guerra
+Isabel
+Isabel
+Isabel Aguilar
+Cuando Amalfitano
+Santa Teresa
+Durante
+Le
+Rosa Los
+Para
+Amalfitano
+Rosa
+Amalfitano
+Amalfitano
+No
+Isabel
+Amalfitano
+Luego
+Isabel
+Amalfitano
+Cuando Amalfitano
+Isabel
+Isabel
+Amalfitano
+Amalfitano- En
+Tengo
+Isabel
+Recogió
+Holiday Forever
+Para
+Pancho
+Amalfitano
+Esa
+Rosa:
+Sonora
+Hasta
+Después
+Luego
+Escuchó
+Luego Rosa
+Rosa
+Rosa
+Sonora
+Revolución Iba
+Llevaba
+Padilla
+Empezaba
+Aribau
+J M G Arcimboldi
+Amalfitano
+Arcimboldi
+España
+No
+Incluso La
+Prefiero
+Padilla
+Buenos
+Aires
+Aquí Padilla
+Amalfitano
+México DF Si
+Arcimboldi
+Buenos Aires
+Amalfitano
+Por
+Padilla
+Arcimboldi
+Librería
+Apollinaire
+Córcega
+Riquer
+Juli Montaner
+Montaner
+Borges
+En Barcelona
+Padilla
+Arcimboldi
+Thomas Bernhard
+Stevenson
+Robert Louis
+Louis
+Aloysius Bertrand
+Perec
+Gide
+Robbe-Grillet
+Proyecto
+Nueva
+York En
+Finalmente
+Arcimboldi
+Gracia
+Barcelona
+Contra Buñuel
+Dalí
+Platero
+Amalfitano
+Para
+Padilla
+Pero
+Padilla
+Con
+Amalfitano
+Arcimboldi
+Debí
+Osman
+Lins
+No
+Amalfitano
+Padilla
+Barcelona
+Arcimboldi
+De Kooning:
+Arcimboldi
+Padilla
+Seat
+Si
+Sobre El
+Padilla
+Amalfitano
+Arcimboldi
+No
+Barcelona
+Sigue
+Padilla
+Estoy
+Acto
+Amalfitano
+Puedes
+Desde
+Ahora
+Eso
+Pronto
+Por
+Pobre
+Padilla
+Aquí
+Gracia
+Sin
+Padilla
+No
+Padilla
+Seguridad Social Como
+Ya
+Pero
+Prometía
+Sobre El
+Raguenau»
+Padilla
+Tenía
+Padilla
+Amalfitano No
+Vivir
+Barcelona
+El Mediterráneo
+Ramblas La
+Padilla
+Gabriel Salazar
+Tenía
+Edelmira Sánchez
+Alejandra Rosales
+Parque México
+Edelmira Sánchez
+Alejandra Rosales
+Edelmira
+Alejandra
+Según
+Alejandra
+Chucho Peguero
+Alejandra
+La Hélice
+Amado Nervo La
+Guadalupe Guillén Según
+Alejandra
+La Hélice
+Guadalupe Guillén
+Nadie
+Edelmira Sánchez
+Sánchez
+New York
+Escandón
+Normalmente
+Edelmira
+Ni Alejandra
+New
+York
+Edelmira
+La Hélice
+Hélice
+Con
+Edelmira
+Alejandra
+Gumaro
+Pancho
+Santa Teresa Cuando
+Pancho
+Gumaro
+Era
+Adivinar
+U
+La Estela Pancho
+Gumaro
+Pancho
+No
+Santa Teresa
+Pedro Negrete Todos
+Pedro
+A Pancho
+Gumaro
+Otras
+Le
+Sobre
+También
+No
+Gumaro
+T
+Gumaro
+Gumaro-
+Ahí
+No
+Cuando
+Sin
+COIllO
+Illell
+Icgo
+Nadie
+Unos
+Pedro Negrete
+General Sepúlveda Pancho
+Gumaro
+Pedro
+El Milagro
+Pancho
+Monterrey
+Gumaro
+Felicidad Pérez
+Gumaro
+Muchas
+Pancho
+Gumaro
+Cuando
+Decía:
+Eso
+Entonces
+Drácula
+Pancho
+Gumaro
+Gumaro
+Otras
+Pueblos
+CIen
+Gumaro?
+Pancho
+Gumaro-
+Putos
+VIVIr
+Pancho
+Como Villaviciosa
+Villaviciosa
+Gumaro-
+México
+Estados Unidos La
+Gumaro
+Por
+Pancho
+Llegaron
+A Gumaro
+Sebastián Romero
+Marco Antonio Guzmán
+Santa Teresa Iban
+UIl I11cxicallo
+I11cxicallo
+Sal1 Ikrnabé Arizona El
+Sal1
+Bernabé
+Pedro Negrete
+UI1
+Santa Teresa
+San Bernabé
+Éstos
+Guzmán
+Tenía
+Después Gumaro
+Romero
+O
+San Bernabé
+Gumaro
+Eran
+Pancho Ojos
+Desvaneciéndose Como
+Gumaro-
+Antes
+Santa Teresa
+Pedro
+Negrete
+San Bernabé
+Bernabé
+Gumaro
+Pancho
+Cuando
+Almira
+Milagros Reina
+Santa Teresa A
+Gumaro
+Pancho
+Pero Gumaro
+Sin
+Padilla
+Decía
+Raguenau
+Adria
+Tibidabo
+Lloré
+Montaña Rusa
+Barcelona
+Mediterráneo
+Amalfitano
+Padilla
+Luego
+Raguenau
+Raguenau
+Mompou Quisiera
+Padilla
+Nolotil
+De El
+Por
+Amalfitano
+Jean-Marie Guyau
+Padilla
+Seguro
+Le
+Birds
+No
+Después
+Amalfitano
+Finalmente
+Ramblas
+Casco Antiguo En
+Rosa
+Padilla
+Rosa
+Arcimboldi
+Cada
+Nuevas
+África
+Amalfitano
+Hablaba
+Sonora
+Padilla
+Isabel Aguilar
+Padilla
+Amalfitano
+Hablaba
+Luego
+Si
+Hablaba
+Hablaba
+José Antonio
+José Antonio
+Un
+Naturaleza
+Progreso
+También
+Adria
+Raguenau
+Adria
+Coordinadora Gay
+Cataluña
+Adria
+Plaza Molina
+Molina
+Con Raguenau
+Explicaba
+Raguenau
+Caribe
+Amalfitano La
+Raguenau
+Greco
+Caravaggio La
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Raguenau
+Pero
+Padilla Eso
+Raguenau
+Raguenau El
+Aldo Ferri
+Brancusi
+Tijuana
+AmalfiTano
+Allí
+Pato Lucas
+Después
+Padilla
+Amalfitano
+Santa Teresa
+Tijuana
+Isabel Aguilar
+Salieron
+Isabel-
+Desayunaron
+Cananea
+Santa Ana Caborca Sonoyta
+San Luis Allí
+Sonora
+Baja California Norte
+Norte
+Durante
+Isabel
+Era
+Eso
+Stetson
+Isabel-
+Larry Rivers
+San Antonio
+Antonio
+Yo
+No
+No
+San Antonio
+Larry Rivers
+San Antonio
+Así
+Nietzsche
+Antes
+Cuando
+San Antonio
+Bueno:
+GÍmaras
+Larry Rivers Yo
+Larry
+Así
+Rivers
+Isabel Aguilar
+Universidad
+Santa Teresa Larry Rivers
+Stetson
+Santa Teresa
+Texas
+California?
+México
+Sonora Larry Rivers
+Sonora
+Yeso
+Larry Rivers
+N
+Como
+Me
+Por
+No
+Cuando
+Larry Rivers
+Rivers
+Me
+Larry
+Rivers
+Larry Rivers
+Carajo
+Me
+Antes
+Larry Rivers
+Fui
+Pensé
+Nunca
+Menos
+Hermosillo
+Santa Teresa
+Teresa
+Padilla
+Te
+Estos
+Amalfitano
+Morfeo
+Con
+Padilla
+Con
+Cuando
+Padilla
+Padilla
+Probablemente
+Padilla
+U
+Padilla
+Padilla
+Padilla
+Desahuciado
+Padilla La
+Dos
+Urquinaona Se
+Elisa
+Le
+Padilla
+Elisa
+N
+Barris
+Raval Padilla
+Kemal
+Padilla
+Prefería
+Escuchar
+Elisa
+T
+Compartieron
+No
+Elisa Padilla
+Durante
+Sin
+Padilla
+Padilla
+Sobre
+Tenía
+Comía
+Amalfitano
+Le
+Tijuana
+No
+No
+Barcelona
+Padilla
+Larry Rivers: Retrato
+Miss Oregon JJ
+Amalfitano
+Padilla
+Tijuana
+Baja California Norte
+San Antonio
+Antonio
+Texas
+Larry Rivers
+Isabel
+Padilla
+Isabel
+Larry Rivers
+Padilla
+Amalfitano
+Leyó
+Padilla
+Rauschenberg
+Rauschenberg
+Larry Rivers?
+Barcelona
+Padilla
+Plaza Cataluña
+Ramblas
+Padilla
+Padilla
+Después
+Padilla
+Girona
+Corán
+Cosa
+Cosa
+Cosa
+Cosa
+Cosa
+Cosa
+Cosa
+Me
+Padilla
+Amalfitano
+Frida Kahlo
+Fridas
+Padilla
+Arcimboldi Por
+DF
+España
+Librería Internacional
+Tijuana
+También
+Librería
+Francesa
+DF
+Tal
+Librería Francesa
+Santa Teresa Sobre
+Larry Rivers
+Padilla
+Era
+Padilla
+Amalfitano
+Parecía
+Girona
+Parecía
+Hasta
+Hablaba
+Pardo Bazán
+Clarín
+Países Bálticos
+Nombraba
+República
+Argentina
+Mariconlandia
+Hablaba
+Aimé Cesaire
+De El
+Hulk
+Terminator
+República
+Patagonia
+República
+Tierra
+Amalfitano
+Padilla
+Elisa Decía
+Decía
+Había
+Nos
+Desvelados
+Padilla
+Así
+Padilla
+Leopoldo María Panero
+Mondragón Cuando
+Padilla
+Por
+Padilla
+Padilla
+Elisa
+Padilla
+Padilla
+Elisa
+Así
+Pero
+Algo
+Pero
+U
+Me
+Padilla
+Sobre
+JI'
+Amalfitano
+Elisa
+Departamento
+Filosofía
+Rosa
+Como
+Padilla
+Amalfitano
+Volvía
+Elisa
+Durante
+Volvieron
+Volvieron
+Volvieron
+Padilla
+Barcelona
+Mondragón
+Cuando
+Padilla
+Pero
+Padilla
+Barcelona
+Sarriá Demasiado Gombrowicz
+Amalfitano
+Elisa
+Padilla:
+Leopoldo María Panero
+Mondragón?
+Padilla
+Acostarte
+Elisa
+Pero
+Elisa
+Padilla
+Amalfitano
+San
+Sebastián
+Elisa
+Raguenau
+Adria
+Padilla Sus
+Pero Padilla
+Elisa Ésta
+Panero Cuando Raguenau
+Adria
+Padilla
+Elisa
+Panero
+Elisa
+Ésta
+Creo
+Padilla
+Pero
+Era
+Decidió
+Panero
+Empezó
+Padilla
+Así
+Elisa
+Poco
+Padilla
+Elisa
+Panero
+Cuando
+Padilla
+Amalfitano
+No
+Raguenau
+Adria
+Volvió
+Retomó
+U
+Según Padilla Elisa
+Amalfitano
+Según
+California
+Sobre
+Santa Teresa
+Teresa
+Padilla
+Amalfitano
+Estaba
+Barcelona
+Elisa
+Por
+Elisa
+Algunas
+Pero
+Yo
+Elisa
+Vivimos
+Por
+Elisa
+Algo
+Te
+NOTA EDITORIAL
+EDITORIAL
+Roberto Bolaño
+Bolaño
+Varios
+La Tercera
+Sonora»
+Roberto Bolaño
+Este
+Amalfitano
+Padilla
+Rosa Amalfitano
+Pancho Monje
+JMG Arcimboldi
+Estas
+Vaqueros»
+Tras
+Roberto Bolaño
+Andrew Wylie
+Cora Munro
+CAROLINA LÓPEZ
+LÓPEZ
+ÍNDICE
+Prólogo: Entre
+Juan Antonio Masoliver Ródenas
+LOS SINSABORES DEL VERDADERO POLICÍA
+POLICÍA
+Berlín
+II Amalfitano
+Padilla
+III Rosa Amalfitano
+J M G Arcimboldi
+V Asesinos
+Sonora
+Nota
+Carolina López
+IV
+NARRATIVAS HISPÁNICAS
+HISPÁNICAS
+Martín Caparrós A
+Vicente Verdú No Ficción
+Ficción
+Berta Serra Manzanares Los
+Soledad Puértolas Cielo
+Pablo
+Lecciones
+Álvaro Enrigue Vidas
+Enrique Vila-Matas Dietario
+Andrés Barba Las
+José Antonio Garriga Vela Pacífico
+Pacífico
+Rafael Chirbes Mediterráneos
+Mediterráneos
+Patricio Fernández Los Nenes
+Nenes
+Marius Serra Quieto
+Quieto
+Guillermo Fadanelli Lodo
+Lodo
+Daniel Sada Casi
+IvánThays
+Un
+Oreja
+Perro
+Cartos Busqued Bajo
+Tryno Maldonado Temporada
+José Morella Asuntos
+Fabio Morábito Emilio
+Vicente Molina Foix Con
+Martín Caparrós Una
+Rodrigo Rey Rosa El
+Laura Freixas
+Cuentos
+Miguel Dalmau La
+Diablo
+Julián Granado De Humanidad
+Belén Gopegui Deseo
+Roberto Bolaño Una
+Alberto Barrera Tyszka Crímenes
+Crímenes
+Pablo
+Roberto Bolaño La
+Álvaro Pombo La
+Aloof
+Manuel Gutiérrez Aragón La
+Juan Francisco Ferré Providence
+Providence
+Berta Marsé Fantasías
+J Á González Sainz Ojos
+Roberto Bolaño EITercer Reich
+Reich
+Soledad Puértolas Compañeras
+Marta Sanz Black
+Martín Kohan Cuentas
+Alan Pauls Historia
+Luis Magrinya Habitación
+Marcos GiraltTorrente Tiempo
+Juan Pablo Villa
+Fiesta
+Alfredo Bryce Echenique La
+Rey
+Curvas
+Daniel Sada Ese
+Ricardo Piglia Blanco
+Andrés Barba Agosto
+Lolita Bosch
+Voces Antología
+J M Castellet Seductores
+Seis
+Roberto Bolaño La
+América
+Antonio Ungar Tres
+Roberto Bolaño Los
+Bolaño
+Estrella
+Llamadas
+Un Bolaño
+Amalfitano
+Barcelona
+Santa Teresa
+Pancho Monje
+Expósito
+Castillo
+Larry Rivers
+En Santa Teresa
+Teresa
+Amalfitano
+Padilla
+Arcimboldi
+Bolaño
+Bolaño
+Bolaño
+Roberto Bolaño:
+Bolaño:
+Bryan
+Wilson
+The Ouarterly Conversation
+Conversation
