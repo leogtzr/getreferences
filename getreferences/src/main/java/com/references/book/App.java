@@ -1,6 +1,7 @@
 package com.references.book;
 
 import com.references.book.util.FileLines;
+import com.references.book.util.WordsUtil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -21,9 +22,9 @@ public class App {
 
 		SpringApplication.run(App.class, args);
 
-		// System.out.println("cmn ... ");
         final List<String> bookLines = FileLines.linesFromFile(fileName);
-        bookLines.stream().forEach(System.out::println);
+        final List<String> words = WordsUtil.getWords(bookLines.get(0));
+		System.out.println(words);
 
     }
 
