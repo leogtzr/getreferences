@@ -68,4 +68,16 @@ class ReferenceUtilTest {
         final int expectedNumberOfReferencesInLine = 2;
         assertEquals(expectedNumberOfReferencesInLine, references.size());
     }
+
+    // El secreto del mal, La Universidad Desconocida, El
+
+    @Test
+    public void should_identify_reference7() {
+        final String line = "El secreto del mal, La Universidad Desconocida, Elcmn";
+        final List<Reference> references = ReferenceUtil.extractReferences(line);
+        // System.out.println(references);
+        assertFalse(references.isEmpty());
+        final int expectedNumberOfReferencesInLine = 3;
+        assertEquals(expectedNumberOfReferencesInLine, references.size());
+    }
 }

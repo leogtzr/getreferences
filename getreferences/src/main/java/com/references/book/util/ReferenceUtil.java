@@ -36,7 +36,10 @@ public class ReferenceUtil {
 
     public static List<Reference> extractReferences(final String line) {
 
-        final List<String> words = WordsUtil.getWords(line);
+        final List<String> words = WordsUtil.getWords(line.trim());
+        if (words.isEmpty()) {
+            return new ArrayList<>();
+        }
         final List<Reference> references = new ArrayList<>();
 
         int index = 0;
