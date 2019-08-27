@@ -19,11 +19,16 @@ public class WordsUtil {
         if (word.isEmpty()) {
             return false;
         }
-        if (word.isBlank()) {
-            return false;
-        }
         final char firstChar = word.charAt(0);
-        return Character.isUpperCase(firstChar);
+        final boolean result = Character.isUpperCase(firstChar);
+
+        // System.out.printf("Result [%s][%b]\n", word, result);
+
+        return result;
+    }
+
+    public static String sanitizeWord(final String word) {
+        return word.trim().replaceAll("[,\\)\\.]", "");
     }
 
     private WordsUtil() {}

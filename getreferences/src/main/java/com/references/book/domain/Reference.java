@@ -6,10 +6,14 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Data
-@ToString
 @AllArgsConstructor
 @NoArgsConstructor
 public class Reference {
-    private String word;
+    private String content;
     private Confidence confidence;
+
+    @Override
+    public String toString() {
+        return String.format("[%s]~[%s]", content, confidence);
+    }
 }
