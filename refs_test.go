@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestGetContentTextFromRange(t *testing.T) {
 	type test struct {
@@ -45,4 +47,46 @@ func TestGetNextReferenceIndex(t *testing.T) {
 		}
 	}
 
+}
+
+func Test_addReferenceWithConfidence(t *testing.T) {
+	type test struct {
+		content    string
+		index      int
+		references []Reference
+		want       []Reference
+	}
+
+	tests := []test{
+		{
+			content:    "abc",
+			index:      0,
+			references: []Reference{},
+			want: []Reference{
+				Reference{content: "abc", confidence: Begin},
+			},
+		},
+
+		{
+			content:    "abc",
+			index:      1,
+			references: []Reference{},
+			want: []Reference{
+				Reference{content: "abc", confidence: Begin},
+			},
+		},
+	}
+
+	for _, tc := range tests {
+		addReferenceWithConfidence(tc.content, tc.index, &tc.references)
+		if len(tc.references) != len(tc.want) {
+			t.Errorf("got=[%d], want=[%d] as length", len(tc.references), len(tc.want))
+		}
+		if tc.references[0].content != tc.want[0].content {
+			t.Errorf("got=[%s], want=[%s]", tc.references[0].content, tc.want[0].content)
+		}
+		if tc.references[0].confidence != tc.want[0].confidence {
+			t.Errorf("got=[%d], want=[%d]", tc.references[0].confidence, tc.want[0].confidence)
+		}
+	}
 }
