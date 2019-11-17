@@ -15,8 +15,8 @@ func main() {
 	}
 
 	fileToOpen := os.Args[1]
-	fmt.Println(fileToOpen)
-	file, err := os.Open(os.Args[1])
+	// fmt.Println(fileToOpen)
+	file, err := os.Open(fileToOpen)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -29,8 +29,6 @@ func main() {
 		for _, w := range words {
 			fmt.Printf("[%s]\n", w)
 		}
-		// strings.SPl
-		// fmt.Println(word)
 	}
 
 }
